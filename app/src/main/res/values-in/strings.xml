@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="searchs">masukan nama penguna</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="error">Gagal Memuat Data</string>
+
+    <string name="Language">Bahasa</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="Reminder">Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="key_reminder" translatable="false">reminder</string>
+    <string name="empty_text">Pengguna favorit kosong</string>
+    <string name="notNetwork">Tidak ada sinyal</string>
+    <string name="addfav">Tabah favorit</string>
+    <string name="unfav">Hapus favorit</string>
+    <string name="reminderOFF">Pengingat tidak aktif</string>
+    <string name="remiderON">Pengingat aktif</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="notfound">username tidak ditemukan</string>
+</resources>
+

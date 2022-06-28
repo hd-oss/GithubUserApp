@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="searchs">input username</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="error">failed load data</string>
+
+    <string name="Language">Language</string>
+    <string name="change_language_settings">change language</string>
+    <string name="Reminder">Reminder</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="key_reminder" translatable="false">reminder</string>
+    <string name="empty_text">Empty Favorite Users</string>
+    <string name="notNetwork">No Signal</string>
+    <string name="addfav">add favorite</string>
+    <string name="unfav">delete favorites</string>
+    <string name="reminderOFF">Reminder OFF</string>
+    <string name="remiderON">Reminder ON</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="notfound">username not found</string>
+    <string name="desc" />
+    <string name="desc1" />
+</resources>
+
